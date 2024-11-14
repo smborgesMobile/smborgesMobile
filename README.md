@@ -25,6 +25,19 @@ Throughout my journey, I have collaborated with major companies in the financial
 
 If you are looking for a committed and experienced developer for your next project, don't hesitate to get in touch. I am here to help turn your ideas into reality!
 
+## Portfolio Repository
+
+Explore my portfolio repository to see a collection of my projects and contributions to mobile development. This repository showcases my skills, including:
+
+- Innovative application designs
+- Implementation of best coding practices
+- Examples of clean architecture and modular development
+- Various technologies and frameworks used in real-world scenarios
+
+You can find the portfolio repository here: [My Portfolio](https://github.com/smborgesMobile)
+
+Feel free to check it out, and let’s connect if you have any questions or collaboration ideas!
+
 ## Contact
 
 - **LinkedIn**: [🔗 sergioborgesmendes](https://www.linkedin.com/in/sergioborgesmendes/)
