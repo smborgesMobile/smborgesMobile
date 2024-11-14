@@ -1,6 +1,7 @@
 # Hello, I'm Sérgio Borges! 💻
 
 **Software Engineer at INATEL 📖.**
+
 **Senior Android Developer** at CI&T 🤖.**
 
 I am an Android developer with over 7 years of experience, specializing in creating high-quality mobile applications. Throughout my career, I have worked with various technologies and frameworks, including:
