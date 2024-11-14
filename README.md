@@ -1,7 +1,7 @@
 # Hello, I'm Sérgio Borges! 💻
 
 Software Developer Engineer at INATEL.  
-**Senior Android Developer** at CI&T 🤖.
+**Senior Android Developer** 🤖 at CI&T.
 
 I am an Android developer with over 7 years of experience, specializing in creating high-quality mobile applications. Throughout my career, I have worked with various technologies and frameworks, including:
 
@@ -24,3 +24,8 @@ Throughout my journey, I have collaborated with major companies in the financial
 ## Let's Talk!
 
 If you are looking for a committed and experienced developer for your next project, don't hesitate to get in touch. I am here to help turn your ideas into reality!
+
+## Contact
+
+- **LinkedIn**: [🔗 sergioborgesmendes](https://www.linkedin.com/in/sergioborgesmendes/)
+- **Email**: [📧 sergioborgesmendes12@gmail.com](mailto:sergioborgesmendes12@gmail.com)
