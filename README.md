@@ -34,7 +34,15 @@ Explore my portfolio repository to see a collection of my projects and contribut
 - Examples of clean architecture and modular development
 - Various technologies and frameworks used in real-world scenarios
 
-You can find the portfolio repository here: [My Portfolio](https://github.com/smborgesMobile)
+### Featured Projects
+
+- **Correios Tracking App**: A mobile application for tracking postal packages.  
+  GitHub: [app-correios](https://github.com/smborgesMobile/app-correios)
+
+- **News App**: A mobile application for fetching and displaying news articles.  
+  GitHub: [NewsApp](https://github.com/smborgesMobile/NewsApp)
+
+You can find more of my work in my portfolio repository: [My Portfolio](https://github.com/yourusername/yourportfolio)
 
 Feel free to check it out, and let’s connect if you have any questions or collaboration ideas!
 
