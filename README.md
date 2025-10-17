@@ -11,17 +11,17 @@ I am an Android developer with over 7 years of experience, specializing in creat
 - **Retrofit and Ktor**: For integration with APIs, ensuring effective communication between the application and external services.
 - **Mockk and JUnit**: For unit and integration testing, ensuring the robustness and reliability of applications.
 
-## 🧠 Linguagens de Programação
+## 🧠 Programming Languages
 
-Ao longo da minha carreira, desenvolvi proficiência em diversas linguagens de programação, focando naquelas mais relevantes para o desenvolvimento mobile e soluções escaláveis:
+Throughout my career, I have developed proficiency in several programming languages, with a strong focus on those most relevant to mobile development and scalable solutions:
 
-| 💬 Linguagem    | ⚙️ Nível de Experiência       | 🔍 Observações                                         |
-|------------------|-------------------------------|--------------------------------------------------------|
-| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)       | ⭐⭐⭐⭐⭐ Avançado              | Principal linguagem para Android moderno               |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)           | ⭐⭐⭐⭐ Intermediário/Avançado | Forte base em projetos Android legados                 |
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)           | ⭐⭐⭐ Intermediário           | Utilizada em projetos com Flutter                      |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ⭐⭐⭐ Intermediário           | Aplicações com React Native e integrações front-end    |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | ⭐⭐⭐ Intermediário           | Projetos com melhor tipagem e manutenção               
+| 💬 Language       | ⚙️ Experience Level           | 🔍 Notes                                                   |
+|------------------|-------------------------------|------------------------------------------------------------|
+| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)       | ⭐⭐⭐⭐⭐ Advanced              | Main language for modern Android development               |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)             | ⭐⭐⭐⭐ Intermediate/Advanced | Strong foundation in legacy Android projects               |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)             | ⭐⭐⭐ Intermediate           | Used in cross-platform apps with Flutter                   |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ⭐⭐⭐ Intermediate           | React Native apps and front-end integrations               |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | ⭐⭐⭐ Intermediate           | Projects requiring strong typing and maintainability       |
 
 
 Additionally, I have experience in developing modular applications, sharing tech stacks such as **React Native** and **Flutter**, which allows me to offer versatile and scalable solutions.
