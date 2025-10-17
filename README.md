@@ -56,7 +56,7 @@ Explore my portfolio repository to see a collection of my projects and contribut
 - **News App**: A mobile application for fetching and displaying news articles.  
   GitHub: [NewsApp](https://github.com/smborgesMobile/NewsApp)
 
-You can find more of my work in my portfolio repository: [My Portfolio](https://github.com/yourusername/yourportfolio)
+You can find more of my work in my portfolio repository: [My Portfolio]([https://github.com/smborges](https://github.com/smborgesMobile))
 
 Feel free to check it out, and let’s connect if you have any questions or collaboration ideas!
 
