@@ -11,6 +11,19 @@ I am an Android developer with over 7 years of experience, specializing in creat
 - **Retrofit and Ktor**: For integration with APIs, ensuring effective communication between the application and external services.
 - **Mockk and JUnit**: For unit and integration testing, ensuring the robustness and reliability of applications.
 
+## 🧠 Linguagens de Programação
+
+Ao longo da minha carreira, desenvolvi proficiência em diversas linguagens de programação, focando naquelas mais relevantes para o desenvolvimento mobile e soluções escaláveis:
+
+| 💬 Linguagem    | ⚙️ Nível de Experiência       | 🔍 Observações                                         |
+|------------------|-------------------------------|--------------------------------------------------------|
+| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)       | ⭐⭐⭐⭐⭐ Avançado              | Principal linguagem para Android moderno               |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)           | ⭐⭐⭐⭐ Intermediário/Avançado | Forte base em projetos Android legados                 |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)           | ⭐⭐⭐ Intermediário           | Utilizada em projetos com Flutter                      |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ⭐⭐⭐ Intermediário           | Aplicações com React Native e integrações front-end    |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | ⭐⭐⭐ Intermediário           | Projetos com melhor tipagem e manutenção               
+
+
 Additionally, I have experience in developing modular applications, sharing tech stacks such as **React Native** and **Flutter**, which allows me to offer versatile and scalable solutions.
 
 ## Career Focus
