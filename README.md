@@ -2,7 +2,7 @@
 
 **Software Engineer at [INATEL](https://www.inatel.com) 📖.**
 
-**Senior Android Developer at [CI&T](https://www.ciandt.com) 🤖.**
+**Senior Mobile Developer at [CI&T](https://www.ciandt.com) 🤖.**
 
 I am an Android developer with over 7 years of experience, specializing in creating high-quality mobile applications. Throughout my career, I have worked with various technologies and frameworks, including:
 
